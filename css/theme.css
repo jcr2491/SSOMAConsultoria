@@ -1658,13 +1658,13 @@ aside ul.nav-list > li > a {
 }
 
 .slider-container .top-label {
-	color: #FFF;
+	color: #262626;
 	font-size: 24px;
 	font-weight: 300;
 }
 
 .slider-container .main-label {
-	color: #FFF;
+	color: #0088CC;
 	font-size: 62px;
 	line-height: 62px;
 	font-weight: 800;
@@ -1680,9 +1680,10 @@ aside ul.nav-list > li > a {
 }
 
 .slider-container .bottom-label {
-	color: #FFF;
+	color: #262626;
 	font-size: 20px;
 	font-weight: 300;
+	font-weight: bold;
 }
 
 .slider-container .blackboard-text {
